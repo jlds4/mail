@@ -1,0 +1,33 @@
+textarea {
+    min-height: 400px;
+}
+
+td:last-of-type {
+  text-align:right;
+  padding-right:10px;
+  height:40px;
+}
+
+#email-archive{
+  float:right;
+}
+
+textarea{
+  white-space: pre-wrap;
+}
+
+#email-body{
+  white-space: pre-wrap;
+}
+
+#compose-body{
+    white-space: pre-wrap;
+    height: 280px;
+    overflow: auto;
+    padding: 2px;
+    resize: both;
+    width: 100%;
+}
+
+
+
